@@ -1,1 +1,14 @@
 /* This is main style sheet for index.html*/
+
+#top-title {
+    
+}
+
+.top-bar {
+    width: max-content;
+}
+
+.categories {
+    display: flex;
+    list-style-type: none;
+}
